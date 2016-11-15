@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get a random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardikudesai/starwars-names-new.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "'Hardik <'hardik.u.desai@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hardikudesai/starwars-names-new/issues"
+  },
+  "homepage": "https://github.com/hardikudesai/starwars-names-new#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
